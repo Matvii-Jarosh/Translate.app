@@ -1,8 +1,0 @@
-[Desktop Entry]
-Type=Application
-Categories=X-GNUstep;
-Name=Translate
-StartupWMClass=Translate
-Comment=Translate text
-Icon=/usr/local/lib/GNUstep/Applications/Translate.app/Resources/Translate.tif
-Exec=/usr/bin/openapp Translate
