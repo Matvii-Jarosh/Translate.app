@@ -1,0 +1,18 @@
+{
+    ApplicationDescription = "Translate text";
+    ApplicationName = Translate;
+    ApplicationRelease = "Translate 0.1";
+    Authors = (
+	"Matvii Jarosh <matviijarosh@gmail.com>"
+    );
+    Copyright = "Copyright (C) 2024 Matvii Jarosh";
+    CopyrightDescription = "Released under the GNU General Public License 3.0";
+    FullVersionID = "0.1 Nov 2024";
+    GSMainMarkupFile = "";
+    NOTE = "Automatically generated, do not edit!";
+    NSExecutable = Translate;
+    NSIcon = "Translate.tif";
+    NSMainNibFile = "";
+    NSMainStoryboardFile = "";
+    NSPrincipalClass = NSApplication;
+}

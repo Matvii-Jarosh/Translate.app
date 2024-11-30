@@ -1,0 +1,10 @@
+{
+  ApplicationName = "Translate";
+  ApplicationDescription = "Translate text";
+  ApplicationRelease = "Translate 0.1";
+  FullVersionID = "0.1 Nov 2024";
+  Authors = ("Matvii Jarosh <matviijarosh@gmail.com>");
+  Copyright = "Copyright (C) 2024 Matvii Jarosh";
+  CopyrightDescription = "Released under the GNU General Public License 3.0";
+}
+
