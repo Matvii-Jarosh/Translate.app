@@ -143,6 +143,21 @@
 		  action: @selector (selectAll:) 
 	   keyEquivalent: @"a"];
 
+  menuItem = [mainMenu addItemWithTitle: @"Action" 	
+				 action: NULL 
+			  keyEquivalent: @""];
+  menu = AUTORELEASE ([NSMenu new]);
+  [mainMenu setSubmenu: menu forItem: menuItem];
+  
+  [menu addItemWithTitle: @"Trasnlate" 
+		  action: @selector (translateText:) 
+	   keyEquivalent: @"t"];
+
+  [menu addItemWithTitle: @"Speech" 
+		  action: @selector (speechText:) 
+	   keyEquivalent: @"s"];
+
+
   [mainMenu addItemWithTitle: @"Hide" 
 		      action: @selector (hide:) 
 	       keyEquivalent: @"h"];  
